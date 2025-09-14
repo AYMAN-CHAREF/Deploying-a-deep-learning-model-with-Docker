@@ -1,7 +1,7 @@
 # Deep Learning Model Deployment with Docker
 
 ## Description
-In this lab, I successfully deployed a deep learning object detection application using Docker. I packaged the FastAPI-based application along with a YOLOv3-tiny model and containerized it for production deployment. The model has now moved out of the Jupyter notebook environment and is exposed to external traffic, just like real-world applications!
+In this project, I successfully deployed a deep learning object detection application using Docker. I packaged the FastAPI-based application along with a YOLOv3-tiny model and containerized it for production deployment. The model has now moved out of the Jupyter notebook environment and is exposed to external traffic, just like real-world applications!
 
 ## Project Overview
 This project demonstrates the complete pipeline of deploying a machine learning model from development to production using Docker containerization. The application provides object detection capabilities through a FastAPI web service that can handle external requests.
